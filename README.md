@@ -1,4 +1,4 @@
-# Detecting Ambiguity in Questions
+# Detecting Temporal Ambiguity in Questions
 
 ## 🗃️Dataset
 
