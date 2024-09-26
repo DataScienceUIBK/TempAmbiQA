@@ -1,6 +1,6 @@
-# Etecting Ambiguity in Questions
+# Detecting Ambiguity in Questions
 
-##🗃️Dataset
+## 🗃️Dataset
 
 <img src="images/comming_soon.png" width="256">
 
