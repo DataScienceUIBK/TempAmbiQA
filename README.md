@@ -1,5 +1,4 @@
 # Detecting Temporal Ambiguity in Questions
-A dataset for detecting temporal ambiguity in questions.
 
 ## 🗃️Dataset
 
