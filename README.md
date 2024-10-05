@@ -12,6 +12,14 @@
 
 <img src="images/comming_soon.png" width="256">
 
+The statistics of the dataset are given below: 
+|                                |  No. of Questions |
+| -------------------------------|------------------ | 
+|         #Questions             |     8,162         | 
+|      Ambiguous Questions       |     3,879         | 
+|     Unambiguous Questions      |     4,283         |
+| Average Question Length (Words)|      8.55         | 
+
 ## 🪪License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
