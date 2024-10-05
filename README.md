@@ -16,7 +16,7 @@
 [
     {
         "question": "",
-        "ambiguous": "true | false" ,
+        "ambiguous": ,
     }
 ]
 
