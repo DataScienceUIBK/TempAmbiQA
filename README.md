@@ -12,6 +12,16 @@
 
 <img src="images/comming_soon.png" width="256">
 
+```json
+[
+    {
+        "question": "",
+        "ambiguous": "true | false" ,
+    }
+]
+
+```
+
 The statistics of the dataset are given below: 
 |                                |  No. of Questions |
 | -------------------------------|------------------ | 
