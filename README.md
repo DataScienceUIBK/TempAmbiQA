@@ -7,6 +7,7 @@
 
 # Detecting Temporal Ambiguity in Questions
 
+<img src="images/TempAmbiguousFramework.png">
 
 ## 🗃️Dataset
 In this study, we manually labeled 8,162 open-domain questions as temporally ambiguous or unambiguous, creating [⬇️TempAmbiQA](https://huggingface.co/datasets/Bhawna/TempAmbiQA/tree/main). You can access and download the dataset by clicking on the corresponding link.
