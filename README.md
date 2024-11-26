@@ -33,16 +33,27 @@ The statistics of the dataset are given below:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## ✨Citation
-If you find this work useful, please cite [📜our paper](https://arxiv.org/pdf/2409.17046):
+If you find this work useful, please cite [📜our paper](https://aclanthology.org/2024.findings-emnlp.562.pdf):
 ### Plain
-Piryani, Bhawna, Abdelrahman Abdallah, Jamshid Mozafari, and Adam Jatowt. "Detecting Temporal Ambiguity in Questions"  arXiv preprint arXiv:2409.17046 (2024).
+Bhawna Piryani, Abdelrahman Abdallah, Jamshid Mozafari, and Adam Jatowt. 2024. Detecting Temporal Ambiguity in Questions. In Findings of the Association for Computational Linguistics: EMNLP 2024, pages 9620–9634, Miami, Florida, USA. Association for Computational Linguistics.
 ### Bibtex
 ```bibtex
-@article{piryani2024detecting,
-  title={Detecting Temporal Ambiguity in Questions},
-  author={Piryani, Bhawna and Abdallah, Abdelrahman and Mozafari, Jamshid and Jatowt, Adam},
-  journal={arXiv preprint arXiv:2409.17046},
-  year={2024}
+@inproceedings{piryani-etal-2024-detecting,
+    title = "Detecting Temporal Ambiguity in Questions",
+    author = "Piryani, Bhawna  and
+      Abdallah, Abdelrahman  and
+      Mozafari, Jamshid  and
+      Jatowt, Adam",
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2024",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-emnlp.562",
+    pages = "9620--9634",
 }
 ```
 
